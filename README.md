@@ -7,7 +7,7 @@ I thought it would be fun to OCR it and put it on github.
 
 ## How to Use
 
-Run the program in ninjaturtle.txt in Applesoft.  If you don't have an Apple II handy, use this [web-based emulator](http://www.calormen.com/jsbasic/index.htm).
+Run the program in ninjaturtle.txt in Applesoft.  If you don't have an Apple II handy, use this [web-based emulator](http://www.calormen.com/jsbasic/).
 
 ## Printout from 1991
 This was printed on an ImageWriter II dot matrix printer with a color ribbon.  Please note the doodle of Shredder towards the bottom of the page.
